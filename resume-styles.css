@@ -1,0 +1,23 @@
+body {
+    background-color: #000;
+}
+.image-specific {
+    border: 0 #000;
+    background-color: #000;
+}
+
+.heading-specific {
+    color: #777 !important;
+    font-family: "Bebas Neue", serif;
+}
+
+.heading-specific > span {
+    color: #FAEF5D;
+}
+
+.text-specific {
+    color: #FAEF5D;
+    font-family: "Bebas Neue", serif;
+    font-size: 1.2rem;
+    letter-spacing: 0.05rem;
+}
